@@ -12,12 +12,54 @@ description: 引入篇
 
 ### 声母（18个）
 
-![](<../.gitbook/assets/image (3).png>)
+![](<../.gitbook/assets/image (1).png>)
 
 潮语的拼读方式与汉语拼音相似，但不同的是潮拼方案规定了零声母（Ø），且在拼写中不需要使用。
 
 {% hint style="info" %}
 #### 什么是零声母？
 
-汉语中啊多数点点滴滴大多数迎接、
+汉语中大多数音节都是以声母+韵母的方式构成，但也存在部分只由韵母构成的音节，比如“衣”“污”“鱼”，这种不需要声母的音节可以视作开头有个不发声的声母，这个声母就称作零声母。在普通话中，汉语拼音方案规定了在拼写i、u、ü三个零声母音节时，在前方加入y、w作为“声母”，即yi wu yu，但在潮汕话的潮拼方案中，拼写零声母音节，可直接省略声母，即i u……
+{% endhint %}
+
+### 韵母（59个）
+
+#### 单韵母
+
+a o e i u ê
+
+#### 复韵母
+
+ai oi ui ao ou iu ia io iao ua uê uai
+
+#### 鼻韵母
+
+im am iam uam
+
+ang ong eng êng ung
+
+ing iong iang uang
+
+#### 鼻化韵母（不同于普通话的前鼻韵母）
+
+in an ian ên ion uan ain oin en(ng)
+
+#### 鼻音辅音音节
+
+m hm ng hng ngh hngh
+
+#### 入声韵母
+
+ap ib iab uab
+
+ag ig iag uag og iog êg ug
+
+ah ih iah uah oh ioh êh oih
+
+### 声调（8个）
+
+潮汕话拥有8个声调，总结为平上去入各分阴阳，即阴平、阴上、阴去、阴入、阳平、阳上、阳去、阳入八调，其中包含两个普通话已经没有的“入声调”。
+
+{% hint style="info" %}
+潮汕话
 {% endhint %}
