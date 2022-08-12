@@ -1,6 +1,6 @@
 # Table of contents
 
-* [What is MyProduct?](README.md)
+* [这是什么东西？](README.md)
 
 ## Guides
 
