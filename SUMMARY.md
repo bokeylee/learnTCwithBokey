@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Page 1](README.md)
+* [你好像发现了什么不得了的东西](README.md)
